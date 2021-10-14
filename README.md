@@ -2,17 +2,20 @@
 
 # Hi, I'm Zach 👋
 
-I'm a **Full-Stack Software Engineer** and **Data Visualization Consultant** based out of Denver, CO. Self-proclaimed a *Zach of All Trades*, I've worked professionally as a mechanical engineer, technical consultant, creative producer and emergency responder. Give me a problem and situational pressure and I will bring you a solution! Currently working on a number of personal projects to improve and broaden my skill set as a Software Engineer.
+I'm a **Full-Stack Software Engineer** and **Data Visualization Consultant** based out of Denver, CO. Self-proclaimed a **_Zach of All Trades_**, I've worked professionally as a mechanical engineer, technical consultant, creative producer and emergency responder. Give me a problem and situational pressure and I will bring you a solution! Currently working on a number of personal projects to improve and broaden my skill set as a Software Engineer.
 
 <!-- Portfolio -->
 ## Portfolio & Skills
+
+Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
+
 <div style="display:inline;">
   <img valign="top" src="https://github-readme-stats.vercel.app/api?username=ZachTippit&theme=radical"/>
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachTippit&layout=compact&show_icons=true&theme=radical"/>
 </div>
 </br>
 
-Check out my repos or portfolio for specific projects! Here are some of the tech skills that I have used in the past:
+Check out my repos or <a href="https://www.zachtippit.com">portfolio</a> for specific projects! Here are some of the tech skills that I have used in the past:
 
 ### Projects Built With:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -50,7 +53,7 @@ Want to reach out and/or learn more? Check out the following!
 
 [![Linkedin](https://img.shields.io/badge/-Zach_Tippit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachtippit/)
 [![Gmail](https://img.shields.io/badge/-zachary.tippit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zachary.tippit@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-zachtippit.com-black?style=flat&labelColor=black)](https://iahsanujunda.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio:_zachtippit.com-darkgreen?style=flat)](https://iahsanujunda.github.io)
 [![Instagram](https://img.shields.io/badge/-@zachtippit-white?style=flat&logo=Instagram)](https://instagram.com/zach_tippit/)
 
 ---
