@@ -30,13 +30,13 @@ Check out my repos or portfolio for specific projects! Here are some of the tech
 
 ### Other Skills/Technologies:
 
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
 ![G-Suite](https://img.shields.io/badge/-GSuite-05122A?style=flat&logo=google)&nbsp;
-![Data Studio](https://img.shields.io/badge/-Data_Studio-05122A?style=flat)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-05122A?style=flat&logo=raspberrypi)&nbsp;
 ![Adobe PP](https://img.shields.io/badge/-Adobe_Premiere_Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
 ![Adobe AE](https://img.shields.io/badge/-Adobe_After_Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
 ![Adobe PS](https://img.shields.io/badge/-Adobe_Photoshop-05122A?style=fla&logo=adobephotoshop)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-05122A?style=flat&logo=raspberrypi)&nbsp;
+![Data Studio](https://img.shields.io/badge/-Data_Studio-05122A?style=flat)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat)&nbsp;
 ![PTC Creo](https://img.shields.io/badge/-PTC_Creo-05122A?style=flat)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat)&nbsp;
