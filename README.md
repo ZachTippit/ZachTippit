@@ -49,12 +49,12 @@ Check out my repos or <a href="https://www.zachtippit.com">portfolio</a> for spe
 <!-- Social -->
 ## Social
 
-Want to reach out and/or learn more? Check out the following!
+Want to reach out and/or learn more? Check me out!
 
 [![Linkedin](https://img.shields.io/badge/-Zach_Tippit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachtippit/)
-[![Gmail](https://img.shields.io/badge/-zachary.tippit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zachary.tippit@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio:_zachtippit.com-darkgreen?style=flat)](https://iahsanujunda.github.io)
 [![Instagram](https://img.shields.io/badge/-@zachtippit-white?style=flat&logo=Instagram)](https://instagram.com/zach_tippit/)
+[![Gmail](https://img.shields.io/badge/-zachary.tippit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zachary.tippit@gmail.com)
 
 ---
 
