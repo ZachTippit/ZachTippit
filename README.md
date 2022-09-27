@@ -12,6 +12,7 @@ Here's a broad overview of my coding input so far. I am proficient in the MERN s
 <div style="display:inline;">
 
   <img valign="top" src="https://github-readme-stats.vercel.app/api?username=ZachTippit&theme=gotham"/>
+  ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachTippit&count_private=true&theme=gotham)
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachTippit&layout=compact&show_icons=true&theme=gotham"/>
 </div>
 </br>
