@@ -9,13 +9,8 @@ I'm a **Full-Stack Software Engineer** and **Data Visualization Consultant** bas
 
 Here's a broad overview of my coding input so far. I am proficient in the MERN stack and looking to further improve my skills in this area.
  ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachTippit&count_private=true&theme=gotham)
-<div style="display:inline;">
-
-  <img valign="top" src="https://github-readme-stats.vercel.app/api?username=ZachTippit&theme=gotham"/>
  
-  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachTippit&layout=compact&show_icons=true&theme=gotham"/>
-</div>
-</br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachTippit&layout=compact)](https://github.com/ZachTippit/github-readme-stats)
 
 Check out my repos or <a href="https://www.zachtippit.com">portfolio</a> for specific projects! Here are some of the tech skills that I have used in the past:
 
