@@ -2,7 +2,7 @@
 
 # Hi, I'm Zach 👋
 
-I'm a **Full-Stack Software Engineer** and **Data Visualization Consultant** based out of Denver, CO. Self-proclaimed a **_Zach of All Trades_**, I've worked professionally as a mechanical engineer, technical consultant, creative producer and emergency responder. Give me a problem and situational pressure and I will bring you a solution! Currently working on a number of personal projects to improve and broaden my skill set as a Software Engineer.
+I'm a **Full-Stack Software Engineer** and **Data Visualization Consultant** based out of Denver, CO. Self-proclaimed a **_Zach of All Trades_**, I've worked professionally as a mechanical engineer, technical consultant, creative producer and emergency responder. Give me a problem and situational pressure and I will bring you a solution!
 
 <!-- Portfolio -->
 ## Portfolio & Skills
